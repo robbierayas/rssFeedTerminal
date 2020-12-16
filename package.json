@@ -1,0 +1,7 @@
+{
+  "name": "rssFeedTerminal",
+  "version": "1.0.0",
+  "dependencies": {
+    "rss-parser": "^3.10.0"
+  }
+}
